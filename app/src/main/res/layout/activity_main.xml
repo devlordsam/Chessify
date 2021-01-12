@@ -38,48 +38,57 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxA1"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_rook"
+                    android:tag="blackRook"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxA2"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_knight"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxA3"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_bishop"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxA4"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_queen"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxA5"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_king"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxA6"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_bishop"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxA7"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_knight"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxA8"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_rook"
@@ -92,48 +101,56 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxB1"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxB2"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxB3"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxB4"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxB5"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxB6"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxB7"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
                     android:scaleType="fitCenter"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxB8"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/black_pawn"
@@ -146,34 +163,50 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxC1"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxC2"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxC3"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxC4"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxC5"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxC6"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxC7"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxC8"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
@@ -184,34 +217,50 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxD1"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxD2"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxD3"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxD4"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxD5"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxD6"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxD7"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxD8"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
@@ -222,34 +271,50 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxE1"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxE2"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxE3"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxE4"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxE5"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxE6"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxE7"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxE8"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
@@ -260,90 +325,52 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxF1"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxF2"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxF3"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxF4"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxF5"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxF6"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxF7"
+                    android:scaleType="fitCenter"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:background="@color/white"/>
                 <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:background="@color/black"/>
-            </TableRow>
-
-            <TableRow
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content">
-
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
+                    android:id="@+id/boxF8"
                     android:scaleType="fitCenter"
-                    android:background="@color/white"/>
-                <ImageButton
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/black"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/white"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/black"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/white"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/black"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
-                    android:background="@color/white"/>
-                <ImageButton
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:src="@drawable/white_pawn"
-                    android:scaleType="fitCenter"
                     android:background="@color/black"/>
             </TableRow>
 
@@ -352,53 +379,123 @@
                 android:layout_width="wrap_content">
 
                 <ImageButton
+                    android:id="@+id/boxG1"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/black"/>
+                <ImageButton
+                    android:id="@+id/boxG2"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/white"/>
+                <ImageButton
+                    android:id="@+id/boxG3"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/black"/>
+                <ImageButton
+                    android:id="@+id/boxG4"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/white"/>
+                <ImageButton
+                    android:id="@+id/boxG5"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/black"/>
+                <ImageButton
+                    android:id="@+id/boxG6"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/white"/>
+                <ImageButton
+                    android:id="@+id/boxG7"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/black"/>
+                <ImageButton
+                    android:id="@+id/boxG8"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/white_pawn"
+                    android:scaleType="fitCenter"
+                    android:background="@color/white"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/boxH1"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_rook"
                     android:scaleType="fitCenter"
-                    android:background="@color/black"/>
+                    android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxH2"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_knight"
                     android:scaleType="fitCenter"
-                    android:background="@color/white"/>
+                    android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxH3"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_bishop"
                     android:scaleType="fitCenter"
-                    android:background="@color/black"/>
+                    android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxH4"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_queen"
                     android:scaleType="fitCenter"
-                    android:background="@color/white"/>
+                    android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxH5"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_king"
                     android:scaleType="fitCenter"
-                    android:background="@color/black"/>
+                    android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxH6"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_bishop"
                     android:scaleType="fitCenter"
-                    android:background="@color/white"/>
+                    android:background="@color/black"/>
                 <ImageButton
+                    android:id="@+id/boxH7"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_knight"
                     android:scaleType="fitCenter"
-                    android:background="@color/black"/>
+                    android:background="@color/white"/>
                 <ImageButton
+                    android:id="@+id/boxH8"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:src="@drawable/white_rook"
                     android:scaleType="fitCenter"
-                    android:background="@color/white"/>
+                    android:background="@color/black"/>
             </TableRow>
 
         </TableLayout>
